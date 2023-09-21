@@ -1,0 +1,4 @@
+jupyterlab==4.0.6
+pandas==2.1.1
+bardapi==0.1.33
+python-dotenv==1.0.0
